@@ -17,18 +17,34 @@ Ankerst \cite{ankerst2001visual} clasifica en tres enfoques comunes la integraci
 En resumen la minería visual de datos se compone por un lado la minería de datos que son la generación o descubriendo de patrones a partir de un conjunto de datos basándose en técnicas matemáticas, estadísticas o de inteligencia artificial y por otro lado las técnicas de visualización que son la generación de imágenes o de representaciones gráficas a partir de estos datos.
 \begin{figure}[!h]
 \centering
-\includegraphics[width=\columnwidth]{figs/VDM.pdf}%
+\includegraphics[width=\columnwidth]{figs/VDM}%
 \caption{Vista general de los diferentes enfoques de la integración de los humanos en el proceso de exploración de datos.}%
 \label{fig:VDM}%
 \end{figure}
 
 \section{Visualización de Información}
-La visualización de información \cite{card1999readings} es el uso de representaciones visuales e interactivas de datos para amplificar la cognición. Esto significa que los datos son transformados en una imagen. La imagen puede ser cambiado por los usuarios a media que se vaya trabajando con él. Esta interacción es importante, ya que permite una constante redefinición de objetivos cuando una nueva visión de los datos se han obtenido.
+La visualización de información \cite{card1999readings} es el uso de representaciones visuales e interactivas de datos para amplificar la cognición. Esto significa que los datos son transformados a una imagen. La imagen puede ser cambiado por los usuarios a medida que se vaya trabajando con él. Esta interacción es importante, ya que permite una constante redefinición de objetivos cuando una nueva visión de los datos se ha obtenido.
 Esta área esta ampliando su espectro debido al desarrollo de la visualización en computadoras en tiempo real. Este medio es promisorio porque acrecienta los recursos del humano en la forma de procesamiento perceptual, permite reducir el tiempo de búsqueda de información, permite mejorar el reconocimiento de patrones, permite el uso de  inferencia y monitoreo perceptual en un medio manipulable e interactivo.
 Dentro de las subáreas fundamentales se encuentran la visualización de datos multidimensionales, el cual estudiaremos por la importancia dentro del desarrollo del presente trabajo.
 \section{Visualización de Datos Multidimensionales}
 		\subsection{Proyecciones Multidimensionales}
-		\subsection{Métricas de medición de calidad de una proyección}
+		\begin{defn}
+		 Sea un conjunto de datos $X=\{x_1,x_2,...,x_n\}$ en $\Re^m$ con una función $\delta:\Re^m$X$\Re^m \to \Re$ de disimilaridad entre dos puntos en $\Re^m$ y sea $Y=\{y_1,y_2,...,y_n\}$ un conjunto de datos en $\Re^p$ con $p=\{1,2,3\}$  y $d:\Re^p$X$\Re^p \to \Re$ una función de distancia euclidiana entre dos puntos proyectados en el espacio $\Re^p$. Una proyección multidimensional puede ser descrita con la función inyectiva $f:X \to Y$ que busca hacer de $|\delta(x_i,x_j)-d(f(x_i),f(x_j))|$ más próximo  a cero tanto como sea posible, $ \forall x_i,x_j \in X$.\end{defn} 
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.6\columnwidth]{figs/PM.pdf}%
+\caption{Ejemplo, proyección de datos a un espacio visual 2D.}%
+\label{fig:PM}%
+\end{figure}
+De esta forma, las proyecciones multidimensionales buscan mapear datos definidos en un espacio $\Re^m$(generalmente de alta dimensión $m\geq 4$) en un espacio $\Re^p$ cuya dimensión es menor, $p  \in \{1,2,3\}$, figura \ref{fig:PM}, en la medida de lo posible preservando las distancias entre los vecinos. Esta representación gráfica (posicionamiento de los puntos proyectados) refleja la estructura del conjunto de datos en términos de agrupamiento entre las instancias y otras relaciones de proximidad de interés. Así los puntos preservan una semejanza en relación a la medida de similaridad $\delta$.
+
+El objetivo de reducir la dimensión de los datos puede ser variado dependiendo la aplicación que se busca. En algunos casos se usa la proyección para comprimir una gran base de datos en una cantidad inferior de vectores  representativos \cite{Kohonen2001SM} y algoritmos como \ac{LDA} utilizan la información de la clase a la que cada dato pertenece para realizar la proyección maximizando la definición y las distancias entre distintas clases. 
+
+\subsection{Clasificación}
+Con base en la literatura, los métodos de proyección multidimensional pueden ser clasificados de tres formas, Cada una en un contexto  definido diferente.
+
+\subsection{Métricas de medición de calidad de una proyección}
+\textbf{Preservación Topológica}. Se basa en la comparación de los rankings de vecindad en el espacio original y el espacio visual. Denotamos con 
 		\subsection{Técnicas de visualización Radial}
 		\subsection{Radviz}
 		\subsection{Star Coordinates}
