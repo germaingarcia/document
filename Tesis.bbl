@@ -1,16 +1,53 @@
 \begin{thebibliography}{}
 
-\bibitem[won, ]{wong1999guest}
+\bibitem[Ankerst, 2001]{ankerst2001visual}
+Ankerst, M. (2001).
+\newblock {\em Visual data mining}.
+\newblock Dissertation. de.
 
+\bibitem[Brewer et~al., 2000]{brewer2000collaborative}
+Brewer, I., MacEachren, A.~M., Abdo, H., Gundrum, J., and Otto, G. (2000).
+\newblock Collaborative geographic visualization: Enabling shared understanding
+  of environmental processes.
+\newblock In {\em Information Visualization, 2000. InfoVis 2000. IEEE Symposium
+  on}, pages 137--141. IEEE.
 
-\bibitem[ank, ]{ankerst2001visual}
+\bibitem[Card et~al., 1999]{card1999readings}
+Card, S.~K., Mackinlay, J.~D., and Shneiderman, B. (1999).
+\newblock {\em Readings in information visualization: using vision to think}.
+\newblock Morgan Kaufmann.
 
+\bibitem[Carlis and Konstan, 1998]{Carlis:1998:IVS}
+Carlis, J.~V. and Konstan, J.~A. (1998).
+\newblock Interactive visualization of serial periodic data.
+\newblock In {\em Proceedings of the 11th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '98, pages 29--38, New York, NY,
+  USA. ACM.
 
-\bibitem[car, ]{card1999readings}
+\bibitem[Cugini et~al., 1996]{cugini1996interactive}
+Cugini, J., Piatko, C., and Laskowski, S. (1996).
+\newblock Interactive 3d visualization for document retrieval.
+\newblock In {\em Proceedings of the Workshop on New Paradigms in Information
+  Visualization and Manipulation at CIKM (Rockville, Maryland, USA}.
 
+\bibitem[Dragicevic and Huot, 2002]{dragicevic2002spiraclock}
+Dragicevic, P. and Huot, S. (2002).
+\newblock Spiraclock: a continuous and non-intrusive display for upcoming
+  events.
+\newblock In {\em CHI'02 extended abstracts on Human factors in computing
+  systems}, pages 604--605. ACM.
 
-\bibitem[Koh, ]{Kohonen2001SM}
+\bibitem[Draper et~al., 2009]{draper2009survey}
+Draper, G.~M., Livnat, Y., and Riesenfeld, R.~F. (2009).
+\newblock A survey of radial methods for information visualization.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  15(5):759--776.
 
+\bibitem[Draper and Riesenfeld, 2008]{draper2008votes}
+Draper, G.~M. and Riesenfeld, R.~F. (2008).
+\newblock Who votes for what? a visual query language for opinion data.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  14(6):1197--1204.
 
 \bibitem[Galante, 2001]{Galante01}
 Galante, R. d.~M. (2001).
@@ -18,10 +55,124 @@ Galante, R. d.~M. (2001).
   com o emprego de versões}.
 \newblock PhD thesis, Instituto de Informática-UFRGS.
 
+\bibitem[Havre et~al., 2001]{havre2001interactive}
+Havre, S., Hetzler, E., Perrine, K., Jurrus, E., and Miller, N. (2001).
+\newblock Interactive visualization of multiple query results.
+\newblock In {\em infovis}, page 105. IEEE.
+
+\bibitem[Hoffman et~al., 1997]{hoffman1997radviz}
+Hoffman, P., Grinstein, G., Marx, K., Grosse, I., and Stanley, E. (1997).
+\newblock Dna visual and analytic data mining.
+\newblock In {\em Visualization '97., Proceedings}, pages 437--441.
+
+\bibitem[Hong et~al., 2003]{hong2003zoomology}
+Hong, J.~Y., D’Andries, J., Richman, M., and Westfall, M. (2003).
+\newblock Zoomology: comparing two large hierarchical trees.
+\newblock {\em Posters Compendium of Information Visualization}, pages
+  120--121.
+
+\bibitem[Jankun-Kelly and Ma, 2003]{Jankun:2003:MoireGraphs}
+Jankun-Kelly, T. and Ma, K.-L. (2003).
+\newblock Moiregraphs: radial focus+context visualization and interaction for
+  graphs with visual nodes.
+\newblock In {\em Information Visualization, 2003. INFOVIS 2003. IEEE Symposium
+  on}, pages 59--66.
+
+\bibitem[Kandogan, 2000]{kandogan:2000:starcoordinates}
+Kandogan, E. (2000).
+\newblock Star coordinates: A multi-dimensional visualization technique with
+  uniform treatment of dimensions.
+\newblock In {\em In Proceedings of the IEEE Information Visualization
+  Symposium, Late Breaking Hot Topics}, pages 9--12.
+
+\bibitem[Keim et~al., 2006]{keim2006monitoring}
+Keim, D., Mansmann, F., Schneidewind, J., Schreck, T., et~al. (2006).
+\newblock Monitoring network traffic with radial traffic analyzer.
+\newblock In {\em Visual Analytics Science And Technology, 2006 IEEE Symposium
+  On}, pages 123--128. IEEE.
+
+\bibitem[Kohonen et~al., 2001]{Kohonen2001SM}
+Kohonen, T., Schroeder, M.~R., and Huang, T.~S. (2001).
+\newblock {\em Self-Organizing Maps}.
+\newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA, 3rd edition.
+
+\bibitem[K{\"o}nig, 2000]{konig2000interactive}
+K{\"o}nig, A. (2000).
+\newblock Interactive visualization and analysis of hierarchical neural
+  projections for data mining.
+\newblock {\em Neural Networks, IEEE Transactions on}, 11(3):615--624.
+
+\bibitem[Lamping et~al., 1995]{Lamping:1995:FTB}
+Lamping, J., Rao, R., and Pirolli, P. (1995).
+\newblock A focus+context technique based on hyperbolic geometry for
+  visualizing large hierarchies.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '95, pages 401--408, New York, NY, USA. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[Lehmann and Theisel, 2013]{lehmann:2013:osc}
+Lehmann, D.~J. and Theisel, H. (2013).
+\newblock Orthographic star coordinates.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  19(12):2615--2624.
+
+\bibitem[Livnat et~al., 2005]{livnat2005visualization}
+Livnat, Y., Agutter, J., Moon, S., Erbacher, R.~F., and Foresti, S. (2005).
+\newblock A visualization paradigm for network intrusion detection.
+\newblock In {\em Information Assurance Workshop, 2005. IAW'05. Proceedings
+  from the Sixth Annual IEEE SMC}, pages 92--99. IEEE.
+
 \bibitem[Mateos et~al., 2000]{Mateos00}
 Mateos, G., García~M., J., and Ortín~I., M. (2000).
 \newblock Inclusión de vistas en \textsc{ODMG}.
 \newblock {\em Jornadas de Ingeniería del Software y Bases de Datos {(JISBD
   2000)}}, pages 383--395.
+
+\bibitem[Ono et~al., 2015]{ono2015cradviz}
+Ono, J. H.~P., Sikansi, F., Correa, D.~C., Paulovich, F.~V., Paiva, A., and
+  Nonato, L.~G. (2015).
+\newblock Concentric radviz: Visual exploration of multi-task classification.
+\newblock In {\em Sibgrapi - Conference on Graphics, Patterns and Images},
+  pages 165--172.
+
+\bibitem[Russell et~al., 2012]{russell2012voronoi_radviz}
+Russell, A., Daniels, K., and Grinstein, G. (2012).
+\newblock Voronoi diagram based dimensional anchor assessment for radial
+  visualizations.
+\newblock In {\em Information Visualisation (IV), 2012 16th International
+  Conference on}, pages 229--233.
+
+\bibitem[Salton et~al., 1996]{salton1996automatic}
+Salton, G., Allan, J., Buckley, C., and Singhal, A. (1996).
+\newblock Automatic analysis, theme generation, and summarization of
+  machine-readable texts.
+\newblock In {\em Information retrieval and hypertext}, pages 51--73. Springer.
+
+\bibitem[Sharko et~al., 2008]{sharko2008vrv}
+Sharko, J., Grinstein, G., and Marx, K. (2008).
+\newblock Vectorized radviz and its application to multiple cluster datasets.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  14(6):1444--1427.
+
+\bibitem[Sun et~al., 2008]{yang:2008:scMultivariate}
+Sun, Y., Yuan, J., Hu, Y., and Xiao, W. (2008).
+\newblock An improved multivariate data visualization technique.
+\newblock In {\em Information and Automation, 2008. ICIA 2008. International
+  Conference on}, pages 1525--1530.
+
+\bibitem[Van~Berendonck and Jacobs, 2003]{van2003bubbleworld}
+Van~Berendonck, C. and Jacobs, T. (2003).
+\newblock Bubbleworld: a new visual information retrieval technique.
+\newblock In {\em Proceedings of the Asia-Pacific symposium on Information
+  visualisation-Volume 24}, pages 47--56. Australian Computer Society, Inc.
+
+\bibitem[Wong, 1999]{wong1999guest}
+Wong, P.~C. (1999).
+\newblock Guest editor's introduction: Visual data mining.
+\newblock {\em IEEE Computer Graphics and Applications}, (5):20--21.
+
+\bibitem[Xu and Wunsch, 2009]{xu2009clustering}
+Xu, R. and Wunsch, D. (2009).
+\newblock Clustering (ieee press series on computational intelligence).
 
 \end{thebibliography}
