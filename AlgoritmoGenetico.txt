@@ -1,0 +1,11 @@
+Solucion del problema dela AGENTE VIAJERO mediante algoritmos geneticos
+---------------------------------------------------------------------------
+El algoritmo genetico [CITAR] a tenido avances y aplicaciones, una de esas aplicaciones es la solucion al problema del agente viajero (TSP).
+TSP fue propuesto en 1800 por [CITAR], una describcion simple del problema es el siguiente: se tiene un numero de ciudades $D$ el objetivo es empezar de una ciudad $c_0$ y visitar el resto de las ciudades solo por unica vez y volver a la ciudad de inicio $c_0$. El problema es es encontrar en minimo recorrido (minimizando distancias), lo cual no hace un problema NP-dificil.
+la solucion de este problema parte de la lista de ciudades $R=(c_0,c_1,\ldots,c_{D-1})$ y la minimizacion de la función:
+\begin{equation}
+f(R)=\sum_{i=0}{d(c_i,c_{i+1})+d(c_{D-0},c_0)}
+\end{equation}
+Donde $c_i$ representa la ciudad $i$ y $d(c_i,c_j)$ representa la distancia de la ciudad $c_i$ a la ciudad $c_j$, obviamente  $d(c_i,c_j)=(c_j,c_i)$.
+
+Yang [CITAR] da una solución a TSP aplicando el algoritmo genetico

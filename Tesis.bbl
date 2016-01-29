@@ -5,6 +5,13 @@ Ankerst, M. (2001).
 \newblock {\em Visual data mining}.
 \newblock Dissertation. de.
 
+\bibitem[Bingham and Mannila, 2001]{bingham2001random}
+Bingham, E. and Mannila, H. (2001).
+\newblock Random projection in dimensionality reduction: applications to image
+  and text data.
+\newblock In {\em Proceedings of the seventh ACM SIGKDD international
+  conference on Knowledge discovery and data mining}, pages 245--250. ACM.
+
 \bibitem[Brewer et~al., 2000]{brewer2000collaborative}
 Brewer, I., MacEachren, A.~M., Abdo, H., Gundrum, J., and Otto, G. (2000).
 \newblock Collaborative geographic visualization: Enabling shared understanding
@@ -24,11 +31,27 @@ Carlis, J.~V. and Konstan, J.~A. (1998).
   Interface Software and Technology}, UIST '98, pages 29--38, New York, NY,
   USA. ACM.
 
+\bibitem[Chalmers, 1996]{chalmers1996linear}
+Chalmers, M. (1996).
+\newblock A linear iteration time layout algorithm for visualising
+  high-dimensional data.
+\newblock In {\em Visualization'96. Proceedings.}, pages 127--131. IEEE.
+
+\bibitem[CKAN, ]{dataset:datahub}
+CKAN.
+\newblock {datahub}.
+\newblock \url{https://datahub.io/about}.
+
 \bibitem[Cugini et~al., 1996]{cugini1996interactive}
 Cugini, J., Piatko, C., and Laskowski, S. (1996).
 \newblock Interactive 3d visualization for document retrieval.
 \newblock In {\em Proceedings of the Workshop on New Paradigms in Information
   Visualization and Manipulation at CIKM (Rockville, Maryland, USA}.
+
+\bibitem[De~Silva and Tenenbaum, 2004]{Tenenbaum2004sparse}
+De~Silva, V. and Tenenbaum, J.~B. (2004).
+\newblock Sparse multidimensional scaling using landmark points.
+\newblock Technical report, Technical report, Stanford University.
 
 \bibitem[Dragicevic and Huot, 2002]{dragicevic2002spiraclock}
 Dragicevic, P. and Huot, S. (2002).
@@ -48,6 +71,11 @@ Draper, G.~M. and Riesenfeld, R.~F. (2008).
 \newblock Who votes for what? a visual query language for opinion data.
 \newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
   14(6):1197--1204.
+
+\bibitem[Eades et~al., 1994]{di1994algorithms}
+Eades, D.~B., Giuseppe, P., Tamassia, R., and Tollis, I.~G. (1994).
+\newblock Algorithms for drawing graphs: an annotated bibliography.
+\newblock {\em Computational Geometry}, 4(5):235--282.
 
 \bibitem[Galante, 2001]{Galante01}
 Galante, R. d.~M. (2001).
@@ -71,12 +99,24 @@ Hong, J.~Y., D’Andries, J., Richman, M., and Westfall, M. (2003).
 \newblock {\em Posters Compendium of Information Visualization}, pages
   120--121.
 
+\bibitem[J.~Alcalá-Fdez, 2011]{keel:2011}
+J.~Alcalá-Fdez, A.~Fernandez, J. L. J. D. S. G. L. S. F.~H. (2011).
+\newblock Keel data-mining software tool: Data set repository, integration of
+  algorithms and experimental analysis framework.
+
 \bibitem[Jankun-Kelly and Ma, 2003]{Jankun:2003:MoireGraphs}
 Jankun-Kelly, T. and Ma, K.-L. (2003).
 \newblock Moiregraphs: radial focus+context visualization and interaction for
   graphs with visual nodes.
 \newblock In {\em Information Visualization, 2003. INFOVIS 2003. IEEE Symposium
   on}, pages 59--66.
+
+\bibitem[Joia et~al., 2011]{joia2011local}
+Joia, P., Paulovich, F.~V., Coimbra, D., Cuminato, J.~A., and Nonato, L.~G.
+  (2011).
+\newblock Local affine multidimensional projection.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  17(12):2563--2571.
 
 \bibitem[Kandogan, 2000]{kandogan:2000:starcoordinates}
 Kandogan, E. (2000).
@@ -102,6 +142,11 @@ K{\"o}nig, A. (2000).
   projections for data mining.
 \newblock {\em Neural Networks, IEEE Transactions on}, 11(3):615--624.
 
+\bibitem[Kruskal and Wish, 1978]{joseph1978multidimensional}
+Kruskal, J.~B. and Wish, M. (1978).
+\newblock {\em Multidimensional scaling}, volume~11.
+\newblock Sage.
+
 \bibitem[Lamping et~al., 1995]{Lamping:1995:FTB}
 Lamping, J., Rao, R., and Pirolli, P. (1995).
 \newblock A focus+context technique based on hyperbolic geometry for
@@ -115,6 +160,10 @@ Lehmann, D.~J. and Theisel, H. (2013).
 \newblock Orthographic star coordinates.
 \newblock {\em IEEE Transactions on Visualization and Computer Graphics},
   19(12):2615--2624.
+
+\bibitem[Lichman, 2013]{Lichman:2013}
+Lichman, M. (2013).
+\newblock {UCI} machine learning repository.
 
 \bibitem[Livnat et~al., 2005]{livnat2005visualization}
 Livnat, Y., Agutter, J., Moon, S., Erbacher, R.~F., and Foresti, S. (2005).
@@ -134,6 +183,39 @@ Ono, J. H.~P., Sikansi, F., Correa, D.~C., Paulovich, F.~V., Paiva, A., and
 \newblock Concentric radviz: Visual exploration of multi-task classification.
 \newblock In {\em Sibgrapi - Conference on Graphics, Patterns and Images},
   pages 165--172.
+
+\bibitem[Paulovich et~al., 2008]{Paulovich2008LSP}
+Paulovich, F., Nonato, L., Minghim, R., and Levkowitz, H. (2008).
+\newblock Least square projection: A fast high-precision multidimensional
+  projection technique and its application to document mapping.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  14(3):564--575.
+
+\bibitem[Paulovich, 2008]{paulovich2008mapeamento}
+Paulovich, F.~V. (2008).
+\newblock {\em Mapeamento de dados multi-dimensionais-integrando
+  minera{\c{c}}{\~a}o e visualiza{\c{c}}{\~a}o}.
+\newblock PhD thesis, Universidade de S{\~a}o Paulo.
+
+\bibitem[Paulovich et~al., 2011]{paulovich2011piece}
+Paulovich, F.~V., Eler, D.~M., Poco, J., Botha, C.~P., Minghim, R., and Nonato,
+  L.~G. (2011).
+\newblock Piece wise laplacian-based projection for interactive data
+  exploration and organization.
+\newblock In {\em Computer Graphics Forum}, volume~30, pages 1091--1100. Wiley
+  Online Library.
+
+\bibitem[Paulovich et~al., 2010]{Paulovich2010Two}
+Paulovich, F.~V., Silva, C.~T., and Nonato, L.~G. (2010).
+\newblock Two-phase mapping for projecting massive data sets.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  16(6):1281--1290.
+
+\bibitem[Pekalska et~al., 1999]{pekalska1999new}
+Pekalska, E., de~Ridder, D., Duin, R.~P., and Kraaijveld, M.~A. (1999).
+\newblock A new method of generalizing sammon mapping with application to
+  algorithm speed-up.
+\newblock In {\em ASCI}, volume~99, pages 221--228.
 
 \bibitem[Russell et~al., 2012]{russell2012voronoi_radviz}
 Russell, A., Daniels, K., and Grinstein, G. (2012).
@@ -165,6 +247,17 @@ Van~Berendonck, C. and Jacobs, T. (2003).
 \newblock Bubbleworld: a new visual information retrieval technique.
 \newblock In {\em Proceedings of the Asia-Pacific symposium on Information
   visualisation-Volume 24}, pages 47--56. Australian Computer Society, Inc.
+
+\bibitem[VICG, 2011]{dataset:pan}
+VICG (2011).
+\newblock {PAn - Projection Analyzer}.
+\newblock \url{https://code.google.com/p/projection-analyzer/downloads/list}.
+
+\bibitem[VICG, 2014]{dataset:vicg}
+VICG (2014).
+\newblock {Multivariate Datasets}.
+\newblock \url{http://infoserver.lcad.icmc.usp.br/infovis2/DataSets}.
+\newblock [Online; accessed 1-October-2015].
 
 \bibitem[Wong, 1999]{wong1999guest}
 Wong, P.~C. (1999).
