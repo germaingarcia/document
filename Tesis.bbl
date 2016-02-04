@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Alcalá-Fdez et~al., 2011]{keel:2011}
+Alcalá-Fdez, J., Fernandez, A., Luengo, J., Derrac, J., García, S., Sánchez,
+  L., and Herrera, F. (2011).
+\newblock Keel data-mining software tool: Data set repository, integration of
+  algorithms and experimental analysis framework.
+
 \bibitem[Ankerst, 2001]{ankerst2001visual}
 Ankerst, M. (2001).
 \newblock {\em Visual data mining}.
@@ -99,11 +105,6 @@ Hong, J.~Y., D’Andries, J., Richman, M., and Westfall, M. (2003).
 \newblock {\em Posters Compendium of Information Visualization}, pages
   120--121.
 
-\bibitem[J.~Alcalá-Fdez, 2011]{keel:2011}
-J.~Alcalá-Fdez, A.~Fernandez, J. L. J. D. S. G. L. S. F.~H. (2011).
-\newblock Keel data-mining software tool: Data set repository, integration of
-  algorithms and experimental analysis framework.
-
 \bibitem[Jankun-Kelly and Ma, 2003]{Jankun:2003:MoireGraphs}
 Jankun-Kelly, T. and Ma, K.-L. (2003).
 \newblock Moiregraphs: radial focus+context visualization and interaction for
@@ -149,11 +150,10 @@ Kruskal, J.~B. and Wish, M. (1978).
 
 \bibitem[Lamping et~al., 1995]{Lamping:1995:FTB}
 Lamping, J., Rao, R., and Pirolli, P. (1995).
-\newblock A focus+context technique based on hyperbolic geometry for
+\newblock A focus context technique based on hyperbolic geometry for
   visualizing large hierarchies.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems}, CHI '95, pages 401--408, New York, NY, USA. ACM
-  Press/Addison-Wesley Publishing Co.
+  Computing Systems}, pages 401--408. ACM Press/Addison-Wesley Publishing Co.
 
 \bibitem[Lehmann and Theisel, 2013]{lehmann:2013:osc}
 Lehmann, D.~J. and Theisel, H. (2013).
